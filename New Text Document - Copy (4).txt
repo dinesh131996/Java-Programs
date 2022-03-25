@@ -20,3 +20,8 @@ asdf
 <Executable>
 </Executable>
 </Executable>
+<Fantacy>
+<Fantacy>
+<Fantacy>
+<Fantacy>
+<Fantacy>
